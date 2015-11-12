@@ -12,5 +12,5 @@
 <td> ja / nein </td>
 </tr>
 </table>
-*Pingu*
-** Ich mag Pingus**
+**Pingu**
+*Ich mag Pingus*
