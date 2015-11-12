@@ -9,5 +9,8 @@
 <td> Federn </td>
 <tr>
 <td> ja / nein </td>
+<td> ja / nein </td>
 </tr>
 </table>
+*Pingu*
+** Ich mag Pingus**
